@@ -7,7 +7,7 @@
 
 🔭 **Currently Working On**  
 - Building frontend projects using React  
-- Improving problem-solving skills with Data Structures & Algorithms (Java)  
+- Improving problem-solving skills with Data Structures & Algorithms (Java) 
 
 👯 **Looking to Collaborate On**  
 - MERN Stack projects  
